@@ -1,7 +1,8 @@
 /* Write your CSS here! */
 html, body {
-    margin: 0;
+    margin: 8px;
     padding: 0;
+    display: block;
 }
 #headerfont {
     font-family: ;
